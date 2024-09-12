@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class bfs {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int n=0;
-        System.out.println(n);
+        int num=0;
+        System.out.println(num*2);
         s.close();
     }
 }
