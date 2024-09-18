@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "maxsubarray",
+      "request": "launch",
+      "mainClass": "maxsubarray",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
