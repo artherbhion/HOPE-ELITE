@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "splitting",
+      "request": "launch",
+      "mainClass": "splitting",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "longestsubsequence",
+      "request": "launch",
+      "mainClass": "longestsubsequence",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "maxsubarray",
       "request": "launch",
       "mainClass": "maxsubarray",
