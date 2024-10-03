@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class houserobber {
     public static void main(String[] args) {
-    
+    @SuppressWarnings("resource")
     Scanner s = new Scanner(System.in);
           System.out.println("Enter no of Elements:");
           int n=s.nextInt();

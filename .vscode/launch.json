@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ground",
+      "request": "launch",
+      "mainClass": "ground",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "splitting",
       "request": "launch",
       "mainClass": "splitting",

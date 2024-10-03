@@ -5,8 +5,7 @@ public class splitting {
         Scanner sc= new Scanner(System.in);
         int num=sc.nextInt();
         int size=sc.nextInt();
-        System.out.println(num%size);
-        
-
+        System.out.println("teams "+num/size);
+        System.out.println("remaining "+num%size);       
     }
 }
