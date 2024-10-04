@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "average",
+      "request": "launch",
+      "mainClass": "average",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "profit",
       "request": "launch",
       "mainClass": "profit",

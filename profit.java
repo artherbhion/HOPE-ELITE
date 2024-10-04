@@ -6,6 +6,6 @@ public class profit{
         float a=sc.nextFloat();
         float b=sc.nextFloat();
         
-        System.out.print(a-(a*b/100));               
+        System.out.printf("%.2f",a-(a*b/100));               
     }
 }
