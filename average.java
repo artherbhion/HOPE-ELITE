@@ -9,6 +9,6 @@ public class average {
         int m4=sc.nextInt();
         int m5=sc.nextInt();
         int avg=sc.nextInt();
-        System.err.println(6*avg-m1-m2-m3-m4-m5);
+        System.out.println(6*avg-m1-m2-m3-m4-m5);
     }
 }

@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "car_or_taxi",
+      "request": "launch",
+      "mainClass": "car_or_taxi",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "summa",
+      "request": "launch",
+      "mainClass": "summa",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "average",
       "request": "launch",
       "mainClass": "average",
