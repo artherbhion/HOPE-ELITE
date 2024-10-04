@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "profit",
+      "request": "launch",
+      "mainClass": "profit",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "friends2",
+      "request": "launch",
+      "mainClass": "friends2",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "monkey",
       "request": "launch",
       "mainClass": "monkey",
