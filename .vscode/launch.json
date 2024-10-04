@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "monkey",
+      "request": "launch",
+      "mainClass": "monkey",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "friends",
+      "request": "launch",
+      "mainClass": "friends",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "ground",
       "request": "launch",
       "mainClass": "ground",
