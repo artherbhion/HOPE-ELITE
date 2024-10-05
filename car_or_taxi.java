@@ -14,8 +14,7 @@ public class car_or_taxi{
         System.out.println("Money for Call Taxi:");
         int w=sc.nextInt();
         int car=(v/y)*z+x;
-        int calltaxi=0;
-        calltaxi=(v-3)*w+50;  
+        int calltaxi=(v-3)*w+50;  
         System.out.println("Car cost:"+car);
         System.out.println("Call cost:"+calltaxi);
         System.out.println(car<calltaxi?"Go in car":calltaxi+"Go in calltaxi"); 

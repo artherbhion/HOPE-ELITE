@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pattennum",
+      "request": "launch",
+      "mainClass": "pattennum",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "car_or_taxi",
       "request": "launch",
       "mainClass": "car_or_taxi",
