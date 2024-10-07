@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "xpatten",
+      "request": "launch",
+      "mainClass": "xpatten",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "pattennum",
       "request": "launch",
       "mainClass": "pattennum",
