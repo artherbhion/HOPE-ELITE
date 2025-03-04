@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FlipEdge",
+      "request": "launch",
+      "mainClass": "FlipEdge",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "generateParenthesis",
+      "request": "launch",
+      "mainClass": "generateParenthesis",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "LuckyDirection",
+      "request": "launch",
+      "mainClass": "LuckyDirection",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "ShortestDuplicateSubarray",
+      "request": "launch",
+      "mainClass": "ShortestDuplicateSubarray",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "PostfixEval",
+      "request": "launch",
+      "mainClass": "PostfixEval",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
+      "name": "secondmax",
+      "request": "launch",
+      "mainClass": "secondmax",
+      "projectName": "skillrack_d192d77c"
+    },
+    {
+      "type": "java",
       "name": "xpatten",
       "request": "launch",
       "mainClass": "xpatten",
